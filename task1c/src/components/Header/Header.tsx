@@ -1,6 +1,6 @@
 export const Header = () => {
   return (
-    <nav className="bg-white p-4 flex justify-center" style={{ width: "100%", height: '51px'}}>
+    <nav className="flex fixed w-screen justify-center items-center text-center" >
       <div className="flex items-center justify-between" style={{ width: "1308px"}}>
         <div className="flex items-center">
           <h1 className="text-custom-color text-xl font-bold" style={{ lineHeight: '140%', verticalAlign: 'middle'}}>
