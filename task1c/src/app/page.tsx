@@ -7,7 +7,7 @@ import { TextContent } from "@/components/TextContent/TextContent";
 
 export default function Home() {
     return (
-        <main className="flex min-h-screen flex-col items-center justify-between p-24" style={{ width: '1600px', height: '3523' }}>
+        <main className="flex min-h-screen flex-col items-center justify-between p-24" style={{ background: '#F5F5F5' }}>
             <Header />
             <HeroSection />
             <MainContent />
