@@ -25,12 +25,12 @@ export const Header = () => {
           </li>
         </ul>
         <div className="flex items-center">
-          <button className="mr-6" style={{ width: "62px", height: '27px'}}>
+          <button className="mr-3" style={{ width: "56px", height: '27px'}}>
             <a href="#" className="text-gray-800 hover:text-gray-300">Профил</a>
           </button>
-          <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-8 rounded-md" 
+          <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded-md" 
             style={{ backgroundColor: '#01303A'}}>
-            Заявка за препратка
+            Заявка за пратка
           </button>
         </div>
       </div>
