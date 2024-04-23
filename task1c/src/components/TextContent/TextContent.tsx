@@ -1,5 +1,5 @@
 import React from 'react';
-import { FormContacts } from "../FormContacts/FormContacts";
+import { FormContacts } from '../FormContacts/FormContacts';
 
 export const TextContent = () => {
     return (
