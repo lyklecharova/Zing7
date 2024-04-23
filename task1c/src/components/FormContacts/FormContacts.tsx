@@ -32,7 +32,7 @@ export const FormContacts = () => {
     }
 
     return (
-        <form className="w-full max-w-lg" style={{ width: '55%' }} onSubmit={handleSubmit}>
+        <form className=" flex w-full max-w-lg" style={{ width: '55%' }} onSubmit={handleSubmit}>
             <div className="flex flex-wrap -mx-2 mb-2 items-center ">
                 <div className="flex-1 relative">
                     <span className="absolute inset-y-0 left-2 flex items-center pl-2">
